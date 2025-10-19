@@ -143,8 +143,7 @@ Insert image here
 
 Upload your video in Youtube and paste your video-id here
 
-[![IMAGE ALT TEXT HERE](
-https://www.youtube.com/watch?v=XrLChvNvqVk)]
+(https://www.youtube.com/watch?v=XrLChvNvqVk)]
 
 <br/>
 <br/>
