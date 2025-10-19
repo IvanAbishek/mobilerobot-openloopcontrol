@@ -53,7 +53,7 @@ if __name__ == '__main__':
     z = rotation about z axis ( degree)[-180,180]
     xy_speed = xy axis movement speed,( unit meter/second) [0.5,2]
     '''
-    ep_chassis.move(x=2.5, y=0, z=0, xy_speed=1).wait_for_completed()
+    ep_chassis.move(x=2.3, y=0, z=0, xy_speed=1).wait_for_completed()
     ep_led.set_led(comp = "all",r=255,g=100,b=0,effect="on")
 
     ep_chassis.move(x=0.4, y=0, z=75, xy_speed=1).wait_for_completed()
